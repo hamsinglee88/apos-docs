@@ -1,0 +1,96 @@
+site_name: APOS 跨境新零售商城文档
+site_description: APOS 商城系统操作指南
+site_author: APOS 技术支持
+
+# 主题配置
+theme:
+  name: material
+  language: zh
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: 切换到深色模式
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: 切换到浅色模式
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.tabs.link
+    - toc.follow
+  icon:
+    repo: fontawesome/brands/github
+
+# 搜索配置
+plugins:
+  - search:
+      separator: '[\s\-\u4e00-\u9fa5]+'
+      lang: zh
+
+# Markdown 扩展
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+# 导航结构
+nav:
+  - 首页: index.md
+  - 商城入门:
+    - 开通商城: 商城入门/开通商城.md
+    - 搭建微信小程序商城: 商城入门/搭建微信小程序商城.md
+    - PC商城设置: 商城入门/PC商城设置.md
+    - 移动商城设置: 商城入门/移动商城设置.md
+  - 商品管理:
+    - 商品规格管理: 商品管理/商品规格.md
+    - 商品价格设置: 商品管理/商品价格.md
+    - 商品运费设置: 商品管理/商品运费.md
+  - 支付配置:
+    - 微信支付配置: 支付配置/微信支付配置.md
+    - 支付方式汇总: 支付配置/支付方式汇总.md
+  - 订单管理:
+    - 订单发货: 订单管理/订单发货.md
+    - 自动确认收货: 订单管理/自动确认收货.md
+  - 营销功能:
+    - 扫码购: 营销功能/扫码购.md
+    - 商城直播: 营销功能/商城直播.md
+    - 渠道推广: 营销功能/渠道推广.md
+  - 跨境业务:
+    - 9610-BC清关: 跨境业务/9610-BC清关.md
+    - 保税版商城: 跨境业务/保税版商城.md
+
+# 额外配置
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com
+  generator: false
+
+# 版权信息
+copyright: Copyright &copy; 2026 APOS 技术支持
