@@ -111,4 +111,4 @@ hide:
 
 ---
 
-> 📄 文档地址：[index.md](index.md)
+> 📄 本文地址：[index](index.md)

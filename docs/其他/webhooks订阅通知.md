@@ -16,4 +16,4 @@ webhooks订阅通知的创建在商户后台的‘系统管理->API开放平台-
 
 ---
 
-> 📄 文档地址：[其他/webhooks订阅通知.md](../其他/webhooks订阅通知.md)
+> 📄 本文地址：[webhooks订阅通知](../其他/webhooks订阅通知.md)
