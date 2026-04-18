@@ -1,5 +1,8 @@
 ## 创建webhooks订阅通知
 
+> 文档地址：其他/webhooks订阅通知.md
+
+
 webhooks订阅通知的创建在商户后台的‘系统管理->API开放平台->创建webhooks订阅通知’。
 
 ‘订阅名称’可以随便设置；
