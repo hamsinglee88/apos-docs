@@ -1,7 +1,5 @@
 # PC商城装修
 
-> 文档地址：商城装修/商城装修-PC.md
-
 
 ## 基本介绍：
 
@@ -129,3 +127,7 @@ PC装修内容有首页的LOGO图，Banner图，商品楼层
 选择商品专题拖动到模块，再编辑选择想要添加的专题即可
 
 ![](http://media-hk01.oss-cn-hongkong.aliyuncs.com/images%2Fcodyxiong%40jieztech.com%2FPC%E5%95%86%E5%9F%8E%E8%A3%85%E4%BF%AE.docx%2Fde1e2b6a-2448-4aa1-86d2-1ff47dec4282_image18.png?Expires=1786498767&OSSAccessKeyId=LTAIXyAB35iFpHM0&Signature=cA8V2JS56zF4qTPSnX2LNm3NGWY%3D&x-oss-process=image%2Fformat%2Cpng)
+
+---
+
+> 📄 文档地址：[商城装修/商城装修-PC.md](../商城装修/商城装修-PC.md)

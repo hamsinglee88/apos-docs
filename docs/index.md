@@ -5,8 +5,6 @@ hide:
 
 # APOS 跨境新零售商城文档
 
-> 文档地址：index.md
-
 
 欢迎使用 APOS 商城系统！本文档将帮助您快速搭建和运营您的商城。
 
@@ -110,3 +108,7 @@ hide:
 
 ## 🔗 相关链接
 - [技术支持](mailto:hamsingli@jieztech.com)
+
+---
+
+> 📄 文档地址：[index.md](index.md)

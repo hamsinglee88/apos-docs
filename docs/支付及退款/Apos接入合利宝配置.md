@@ -1,7 +1,5 @@
 # **Apos接入合利宝配置**
 
-> 文档地址：支付及退款/Apos接入合利宝配置.md
-
 
 1，接入背景说明
 
@@ -37,3 +35,7 @@ D，商家手机上会收到合利宝平台下发的短信，例如这种
 E,将收到的短信密钥+签名填入Apos商户后台。门店设置，支付设置的合利宝渠道中，配置完成
 
 ![image.png](http://media-hk01.oss-cn-hongkong.aliyuncs.com/images%2Fjackli%40jieztech.com%2F%E5%90%88%E5%88%A9%E5%AE%9D.md%2Ff45b7150-bbf8-4314-afba-d2803a3fdaf0_image.png?Expires=1816661870&OSSAccessKeyId=LTAIXyAB35iFpHM0&Signature=8E8Uwjel%2FNH8t2B2cbkAfh8KFVk%3D&x-oss-process=image%2Fformat%2Cpng)
+
+---
+
+> 📄 文档地址：[支付及退款/Apos接入合利宝配置.md](../支付及退款/Apos接入合利宝配置.md)
